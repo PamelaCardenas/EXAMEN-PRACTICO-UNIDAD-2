@@ -1,0 +1,3 @@
+CadenaTexto
+Captura
+Principal
